@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/17landonjuan/AMPLIFY/issues"
   },
-  "homepage": "https://github.com/17landonjuan/AMPLIFY#readme"
+  "homepage": "https://github.com/17landonjuan/AMPLIFY#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4",
+    "path": "^0.12.7",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.2.0"
+  }
 }
